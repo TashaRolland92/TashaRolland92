@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Highly skilled, creative and user-focused Frontend Developer with a expertise in designing and developing responsive, accessible, visually engaging web applications. I turn complex business needs and design concepts into seamless, exceptional user experiences, often working with real-time data and complex backend integrations. My experience spans trading dashboards, investment tools, and high-conversion checkout journeys, where clarity, usability, and performance are key.</p>
+<p align="left">Highly skilled, creative and user-focused Frontend Developer with a expertise in designing and developing responsive, accessible and visually engaging web applications. I turn complex business needs and design concepts into seamless, exceptional user experiences, often working with real-time data and complex backend integrations. My experience spans trading dashboards, investment tools, and high-conversion checkout journeys, where clarity, usability, and performance are key.</p>
 
 ###
 
