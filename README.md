@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">Highly skilled, creative and user-focused Frontend Developer with a expertise in designing and developing responsive, accessible and visually engaging web applications. I turn complex business needs and design concepts into seamless, exceptional user experiences, often working with real-time data and complex backend integrations. My experience spans trading dashboards, investment tools, and high-conversion checkout journeys, where clarity, usability, and performance are key.</p>
+<p align="left">Highly skilled, creative and user-focused Frontend Engineer with a expertise in designing and developing responsive, accessible and visually engaging web applications. I turn complex business needs and design concepts into seamless, exceptional user experiences, often working with real-time data and complex backend integrations. My experience spans trading dashboards, investment tools, and high-conversion checkout journeys, where clarity, usability, and performance are key.</p>
 
 ###
 
-<p align="left">✨ Creating and fixing bugs since 2012!<br>📚 I'm currently upskilling in React+TypeScript.<br>🎯 Goals: To claim that "Full-Stack" title while truly understanding every part of the development cycle!<br>☕ Fun fact: I do not like Coffee! Surprisingly though, I absolutely LOVE an Espresso Martini.</p>
+<p align="left">✨ Creating and fixing bugs since 2012!<br>📚 I'm currently upskilling in Next.js.<br>🎯 Goals: To claim that "Full-Stack" title while truly understanding every part of the development cycle!<br>☕ Fun fact: I didn't like Coffee until 2025!</p>
 
 ###
 
@@ -67,16 +67,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
-
-###
-
-<h3 align="left">GitHub Stats</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TashaRolland92&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TashaRolland92&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
